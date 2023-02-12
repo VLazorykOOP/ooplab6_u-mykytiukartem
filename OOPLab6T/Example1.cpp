@@ -58,9 +58,9 @@ namespace SpaceExample1 {
         {
             std::cout << "dat =? Error C2385 ambiguous access level dat " << std::endl;
             /// << dat << std::endl;
-            std::cout << "B12VV::D1V::Base::dat =  " << D12::D1::Base::dat << std::endl;
-            std::cout << "B12VV::D1V::Base::dat =  " << Base::dat << std::endl;
-            std::cout << "B12VV::D1V::Base::dat =  " << D12::D2::Base::dat << std::endl;
+          //  std::cout << "B12VV::D1V::Base::dat =  " << D12::D1::Base::dat << std::endl;
+           // std::cout << "B12VV::D1V::Base::dat =  " << Base::dat << std::endl;
+      //      std::cout << "B12VV::D1V::Base::dat =  " << D12::D2::Base::dat << std::endl;
         }
     };
     //
