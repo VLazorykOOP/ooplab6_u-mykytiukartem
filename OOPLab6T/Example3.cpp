@@ -1,11 +1,11 @@
-#include "Lab6Example.h"
+п»ї#include "Lab6Example.h"
 #include <iostream>
 #include <string>
 using namespace std;
 namespace SpaceExample3 {
     // MultipleiInherance.cpp 
-// Ієрархія типів складається з сутностей: 
-// машина, пасажирський транспорт і автобус.
+// Р†С”СЂР°СЂС…С–СЏ С‚РёРїС–РІ СЃРєР»Р°РґР°С”С‚СЊСЃСЏ Р· СЃСѓС‚РЅРѕСЃС‚РµР№: 
+// РјР°С€РёРЅР°, РїР°СЃР°Р¶РёСЂСЃСЊРєРёР№ С‚СЂР°РЅСЃРїРѕСЂС‚ С– Р°РІС‚РѕР±СѓСЃ.
 //
 
 
