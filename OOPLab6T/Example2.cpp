@@ -2,7 +2,7 @@
 #include <iostream>
 #include <string>
 #include <time.h>
-using namespace std;
+using namespace std; //  гоглг
 namespace SpaceExample2 {
     // Abstract Class
 // Створити абстрактний базовий клас домашня тварина із віртуальною функцією говорить. 
